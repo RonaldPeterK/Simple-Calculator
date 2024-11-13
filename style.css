@@ -1,0 +1,66 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #494E54 !important;
+}
+
+.container {
+    height: 100vh;
+}
+
+form {
+    padding: 15px;
+}
+
+.display {
+
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.display input {
+    font-size: 2rem;
+    height: 5rem;
+    width: 16rem;
+    letter-spacing: 2px;
+}
+
+.display input:active {
+    border: none !important;
+}
+
+.btn {
+    text-align: center !important;
+    background-color: #323538 !important;
+    border: none !important;
+    width: 50px !important;
+    height: 50px !important;
+    margin: 6px !important;
+}
+
+.btn:hover {
+    background-color: #494E54 !important;
+}
+
+.btn:active {
+    background-color: #323538 !important;
+}
+
+.btn-success {
+    background-color: #30AD6B !important;
+}
+
+.btn-success:hover {
+    background-color: #1dce6f !important;
+}
+
+.btn-success:active {
+    background-color: #30AD6B !important;
+}
+
+.sum {
+    height: 112.5px !important;
+    margin-top: -55px !important;
+}
