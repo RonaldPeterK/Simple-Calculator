@@ -9,7 +9,8 @@ This is a **simple yet elegant** calculator built with a **minimalist design** i
 - **Lightweight** ⚡: Fast and efficient, with minimal resource usage.
 
 ## Technologies Used:
-- **HTML** 🌐, **CSS** 🎨, **JavaScript** 💻: For structure, styling, and functionality.
+- **HTML** 🌐, **CSS** 🎨, **Bootstrap** 🖥️: For responsive layout and design.
+- **JavaScript** 💻: For functionality and interactivity.
 
 ## Usage:
 Clone the repository and open the `index.html` file in your browser to start using the calculator. 🚀
